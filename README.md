@@ -53,6 +53,33 @@ Before you begin, ensure you have the following installed:
 ## Configuration
 You can customize the app by modifying the following files:
 
+## Folder Structure
+
+   ```bash
+   react-news-app/
+   ├── public/
+   ├── src/
+   │   ├── components/
+   │   │   ├── NewsItem.jsx
+   │   │   ├── NewsCard.jsx
+   |   |   ├── Navbar.jsx
+   │   │   └── ...
+   │   │   
+   │   ├── App.jsx
+   │   ├── App.css
+   │   ├── Main.jsx
+   │   └── ...
+   ├── .env
+   ├── package.json
+   └── README.md
+   ```
+
+
+## Acknowledgments
+- React.js
+- Bootstrap
+- News API
+
 src/components/NewsCard.jsx: Configure the search functionality and API calls.
 
 tailwind.config.js: Customize Tailwind CSS styles.   
