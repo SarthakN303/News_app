@@ -54,6 +54,7 @@ Before you begin, ensure you have the following installed:
 You can customize the app by modifying the following files:
 
 src/components/NewsCard.jsx: Configure the search functionality and API calls.
+
 tailwind.config.js: Customize Tailwind CSS styles.   
     
 
