@@ -28,3 +28,33 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/SarthakN303/News_app.git
    ```
+2. Navigate to the project directory:
+
+  ```bash
+  cd google-clone-react-tailwind
+  ```
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+4. Create a .env file in the root of your project and add your Rapid API key:
+
+   ```bash
+   VITE_API_KEY=your-api-key
+   ```
+5. Start the development server:
+
+   ```bash
+   yarn dev || npm run dev
+   ```
+6.Open your browser and visit http://localhost:5173 to view the app.
+
+## Configuration
+You can customize the app by modifying the following files:
+
+src/components/NewsCard.jsx: Configure the search functionality and API calls.
+tailwind.config.js: Customize Tailwind CSS styles.   
+    
+
+      
