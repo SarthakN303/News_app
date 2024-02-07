@@ -80,9 +80,7 @@ You can customize the app by modifying the following files:
 - Bootstrap
 - News API
 
-src/components/NewsCard.jsx: Configure the search functionality and API calls.
-
-tailwind.config.js: Customize Tailwind CSS styles.   
+   
     
 
       
